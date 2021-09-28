@@ -1,2 +1,2 @@
-# kimo.py
-تشكير تيك توك
+
+ git push -u origin main. بوابة بوابة الدفع
